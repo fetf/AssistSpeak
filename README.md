@@ -1,6 +1,8 @@
 # AssistSpeak  
 Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack) ([Devpost](https://girls-hoo-hack-2021.devpost.com/))
 
+Project imported from Devpost  
+See full project [here](https://devpost.com/software/assistspeak)
 ## Inspiration
 We wanted to build a project that brings the greatness of virtual assistants to any mobile phone!
 
