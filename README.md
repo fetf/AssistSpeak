@@ -1,7 +1,7 @@
 # AssistSpeak  
 Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack) ([Devpost](https://girls-hoo-hack-2021.devpost.com/))
 
-Written by Richard Sbaschnig, Victor Liu, Lena Sbaschnig 
+Written by Richard Sbaschnig, Victor Liu, Lena Sbaschnig  
 Project imported from Devpost  
 See full project [here](https://devpost.com/software/assistspeak)  
 [Video Demo](https://youtu.be/tCQJtKbdkGI)
