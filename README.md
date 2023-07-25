@@ -4,7 +4,7 @@ Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.g
 Written by Richard Sbaschnig, Victor Liu, Lena Sbaschnig  
 Project imported from Devpost  
 See full project [here](https://devpost.com/software/assistspeak)  
-[Video Demo](https://youtu.be/tCQJtKbdkGI)
+[Video Demo](https://youtu.be/7TbAHtgIV9M)
 
 ## Inspiration
 We wanted to build a project that brings the greatness of virtual assistants to any mobile phone!
