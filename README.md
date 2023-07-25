@@ -2,8 +2,8 @@
 Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack) ([Devpost](https://girls-hoo-hack-2021.devpost.com/))
 
 > Written by Richard Sbaschnig, Victor Liu, Lena Sbaschnig
+
 [![Video Demo](https://img.youtube.com/vi/7TbAHtgIV9M/0.jpg)](https://www.youtube.com/watch?v=7TbAHtgIV9M "Video Demo")
-[Video Demo](https://youtu.be/7TbAHtgIV9M)
 
 ## Inspiration
 We wanted to build a project that brings the greatness of virtual assistants to any mobile phone!
